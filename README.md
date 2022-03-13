@@ -3,3 +3,4 @@
 
 
 ## Features
+* Enable Windows Firewall
