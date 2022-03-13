@@ -3,7 +3,7 @@
 
 
 ## Features
-* Enable Windows Firewall
-* Disable Windows Firewall
-* Send Ping to any IP 
-* Block all traffic from an IP 
+* Enable Windows Firewall (1.0.0)
+* Disable Windows Firewall (1.0.0)
+* Send Ping to any IP (will be on v1.0.1)
+* Block all traffic from an IP (will be on v1.0.3 XD)
