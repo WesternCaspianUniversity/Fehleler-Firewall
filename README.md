@@ -7,6 +7,7 @@
 * Disable Windows Firewall (1.0.0)
 * Send Ping to any IP (will be on v1.0.1)
 * Block all traffic from an IP (will be on v1.0.3 XD)
+* Login in to the Firewall Helper (will be on v1.0.4)
 
 
 
